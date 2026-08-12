@@ -1,0 +1,7 @@
+{
+  "name": "Master Shopping Centre Admin",
+  "description": "Admin application for Master Shopping Centre (Grocery and general store, Pattoki, Punjab, Pakistan)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
